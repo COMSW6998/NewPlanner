@@ -15,7 +15,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("asdasdas");
-        System.out.println("god asg    d");
+        System.out.println("gosg    d");
         while(true){
         	System.out.println("nimeia");
         }
