@@ -1,4 +1,6 @@
-package com.example.zhangluoma;
+package com.example.view;
+
+import com.example.zhangluoma.R;
 
 import android.app.Activity;
 import android.os.Bundle;
